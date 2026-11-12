@@ -94,21 +94,6 @@
 
 ---
 
-### 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SATTURAMBOWORK&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATTURAMBOWORK&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SATTURAMBOWORK&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SATTURAMBOWORK&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:58a6ff&height=110&section=footer" />
 </p>
