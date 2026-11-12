@@ -78,6 +78,19 @@
 
 ---
 
+### 🧠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/SATTURAMBO/">
+    <img src="https://leetcard.jacoblin.cool/SATTURAMBO?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12&colors=0d1117,161b22,e6edf3,8b949e,a371f7,58a6ff,3fb950,d29922,f85149" width="49%" />
+  </a>
+  <a href="https://leetcode.com/u/SATTURAMBO/">
+    <img src="https://leetcard.jacoblin.cool/SATTURAMBO?theme=dark&font=Fira%20Code&ext=contest&border=0&radius=12&colors=0d1117,161b22,e6edf3,8b949e,a371f7,58a6ff,3fb950,d29922,f85149" width="49%" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech stack
 
 <p align="center">
